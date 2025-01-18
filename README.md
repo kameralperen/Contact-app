@@ -17,7 +17,7 @@ Aşağıda projenin belirli kısımlarından alınmış görüntüler bulunmakta
 
 Burada giriş ekranı görünmekte. Kullanıcılar, giriş yaparak sisteme erişebilirler.
 
-![Giriş Ekranı]([images/giris-ekrani.png](https://github.com/kameralperen/Contact-app/blob/main/images/kay%C4%B1t_ol.png?raw=true))
+![Giriş Ekranı](https://github.com/kameralperen/Contact-app/blob/main/images/kay%C4%B1t_ol.png?raw=true)
 
 Giriş yapıldıktan sonra Ana sayfa bu şekilde görünecektir:
 
