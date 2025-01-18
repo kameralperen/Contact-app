@@ -23,6 +23,10 @@ Giriş yapıldıktan sonra Ana sayfa bu şekilde görünecektir:
 
 ![Ana Sayfa](https://github.com/kameralperen/Contact-app/blob/main/images/anasayfa.png?raw=true)
 
+Admin olarak giriş yapan kullanıcılar Kişi Ekleme ekranını bu şekilde görecektir:
+
+![Kişi Ekle](https://github.com/kameralperen/Contact-app/blob/main/images/kisi_ekle.png?raw=true)
+
 Admin olarak giriş yapan kullanıcılar Kişi Düzenleme ekranını bu şekilde görecektir:
 
 ![Kişi Düzenle](https://github.com/kameralperen/Contact-app/blob/main/images/admin_duzenleme.png?raw=true)
