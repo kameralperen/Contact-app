@@ -1,0 +1,56 @@
+        html,
+        body {
+            height: 100%;
+            margin: 0;
+            overflow: hidden;
+        }
+
+        .phone-container {
+            width: 375px;
+            height: 667px;
+            border-radius: 40px;
+            background-color: #f0f0f0;
+            overflow: hidden;
+        }
+
+        .phone-screen {
+            width: 100%;
+            height: 100%;
+            background-color: white;
+            padding: 20px;
+            box-sizing: border-box;
+            display: flex;
+            flex-direction: column;
+            overflow-y: auto;
+        }
+
+        .phone-screen h2 {
+            font-size: 24px;
+            font-weight: bold;
+            text-align: center;
+        }
+
+        form {
+            background-color: white;
+            border-radius: 20px;
+            padding: 20px;
+        }
+
+        .form-control {
+            border-radius: 20px;
+            padding: 10px;
+        }
+
+        .mb-3 {
+            margin-bottom: 15px;
+        }
+
+        .btn {
+            width: 100%;
+            border-radius: 20px;
+            padding: 12px;
+        }
+
+        .form-label {
+            font-weight: bold;
+        }

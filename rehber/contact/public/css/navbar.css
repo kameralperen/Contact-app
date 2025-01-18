@@ -1,0 +1,59 @@
+ /* Navbar stili */
+ .navbar {
+    background-color: white;
+    /* Beyaz arka plan */
+    border-radius: 20px;
+    /* Border radius */
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    /* Hafif gölge efekti */
+    margin-top: 20px;
+    /* Üstten biraz boşluk */
+}
+
+.navbar-brand {
+    font-weight: bold;
+    color: black !important;
+    /* Siyah metin */
+}
+
+.navbar-nav .nav-item .nav-link {
+    color: black !important;
+    /* Siyah metin */
+    font-size: 16px;
+}
+
+.navbar-nav .nav-item .nav-link:hover {
+    color: #007bff !important;
+    /* Hoverda mavi */
+}
+
+/* Çıkış Yap butonunun stilini güzelleştirmek */
+.logout-button {
+    color: black;
+    /* Siyah yazı */
+    background-color: white;
+    /* Beyaz arka plan */
+    border: 2px solid black;
+    /* Siyah kenar */
+    border-radius: 20px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+.logout-button:hover {
+    background-color: black;
+    color: white;
+}
+
+.navbar-toggler {
+    border-color: black;
+}
+
+.navbar-toggler-icon {
+    background-color: black;
+}
+
+.navbar-nav .nav-item {
+    margin-left: auto;
+}
